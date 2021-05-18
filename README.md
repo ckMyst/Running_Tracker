@@ -9,3 +9,5 @@ However, this is not the case as it puts a button on the main window and when cl
 
 You suggested that I should create a dropdown menu that has the option to create a new profile using SAVE, FILE, EDIT
 I have no idea where to go from there
+
+![sample](grab.png)
