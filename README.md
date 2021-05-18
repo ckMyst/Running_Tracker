@@ -10,4 +10,17 @@ However, this is not the case as it puts a button on the main window and when cl
 You suggested that I should create a dropdown menu that has the option to create a new profile using SAVE, FILE, EDIT
 I have no idea where to go from there
 
-![sample](grab.png)
+If we go forward with this, I would like for main window to at least be closed with .withdraw once new profile is selected in either FILE or EDIT in the dropdown menu
+
+![sample](firstcode.png)
+
+![sample](secondcode.png)
+
+![sample](thirdcode.png)
+
+![sample](forthcode.png)
+
+![sample](fifthcode.png)
+
+![sample](error.png)
+
