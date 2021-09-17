@@ -1,5 +1,6 @@
 '''
 Running Tracker
+Connor K.
 '''
 
 # ------------------------
